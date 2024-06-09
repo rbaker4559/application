@@ -3,7 +3,8 @@ export default function Portfolio() {
     <div>
       <h1>Portfolio</h1>
       <p>
-        Here's where I'll put my portfolio stuff
+        Below please find a link to my github account.<br></br><br></br>
+        Link.
       </p>
     </div>
   );

@@ -7,7 +7,7 @@ function NavTabs() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light mb-4">
       <a className="navbar-brand" href="/">
-        Name <FaSkull />
+        Reggie Baker <FaSkull />
       </a>
       <button
         className="navbar-toggler"
