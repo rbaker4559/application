@@ -3,13 +3,15 @@ export default function About() {
     <div>
       <h1>About Page</h1>
       <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+        Here's a bit about me and my professional background. Also dropping a few certs below.<br></br><br></br>
+        Have a look!
       </p>
+      <ul>
+        <li>Cert 1</li>
+        <li>Cert 2</li>
+        <li>Cert 3</li>
+        <li>Cert 4</li>
+      </ul>
     </div>
   );
 }
